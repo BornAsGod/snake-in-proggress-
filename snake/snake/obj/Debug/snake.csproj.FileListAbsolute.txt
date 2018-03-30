@@ -1,0 +1,6 @@
+C:\Users\Valio\Desktop\homework\Нова папка\snake\snake\bin\Debug\snake.exe.config
+C:\Users\Valio\Desktop\homework\Нова папка\snake\snake\obj\Debug\snake.csprojResolveAssemblyReference.cache
+C:\Users\Valio\Desktop\homework\Нова папка\snake\snake\bin\Debug\snake.exe
+C:\Users\Valio\Desktop\homework\Нова папка\snake\snake\bin\Debug\snake.pdb
+C:\Users\Valio\Desktop\homework\Нова папка\snake\snake\obj\Debug\snake.exe
+C:\Users\Valio\Desktop\homework\Нова папка\snake\snake\obj\Debug\snake.pdb
